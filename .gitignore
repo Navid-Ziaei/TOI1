@@ -157,6 +157,8 @@ nz_env/
 saved_model/
 results/
 result/
+data/
+
 
 configs/settings.json
 settings.json
